@@ -1,2 +1,2 @@
 # MachineLearningExamples
-Examples what i made while studying ML
+Examples made while studying ML
