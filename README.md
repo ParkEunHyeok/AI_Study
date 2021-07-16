@@ -1,2 +1,2 @@
-# MachineLearningExamples
-Examples made while studying ML
+# AI_study
+Examples made while studying ML, DL
